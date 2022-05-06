@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on [quadraG](https://github.com/jnarayan81/quadraG)
 - 🤝 I’m looking for help with [ambigram](https://github.com/jnarayan81/ambigram)
 - 👨‍💻 All of my projects are available at [https://github.com/jnarayan81](https://github.com/jnarayan81)
-- 📝 I regulary write articles on [http://bioinformaticsonline.com/](http://bioinformaticsonline.com/)
+- 📝 I regularly write articles on [http://bioinformaticsonline.com/](http://bioinformaticsonline.com/)
 - 💬 Ask me about **Genomics, Bioinformatics, NGS, Perl**
 - 📫 How to reach me **jnarayan81@gmail.com, info@bioinformaticsonline.com**
 - 😄 Pronouns: English, Hindi, Bhojpuri, Sanskrit, Perl, Python 
